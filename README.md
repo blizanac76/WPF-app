@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Project for WPF Application for Colloquium 2 PSNUS</strong></h1>
+<h1 align="center"><strong>Project for WPF Application for Task 2 PSNUS</strong></h1>
 <h2 align="center">Create a WPF application that allows working with data for an arbitrary domain. Enable data viewing in a tabular format, as well as performing CRUD operations (Create, Read, Update, Delete) on tables from the database. Specification:</h2>
 
 - Define a detailed data model (all necessary classes).
